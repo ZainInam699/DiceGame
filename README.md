@@ -7,7 +7,7 @@ if he/she assumed the wrong number between 1-6 then the coins will be decreased
 if the user fill wrong credentials then he/she get the validation error
 if the user lose all of his/her coins then he/she gat a bonus of 100 coins
 
-# requirements
+# Requirements
 Python 3.0 or above
 Python tkinter
 python Pillow
